@@ -616,7 +616,7 @@ section.prices{
     justify-content: center;
     padding-right: 10px;
     padding-left: 10px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 
 .title_prices img:first-of-type{
